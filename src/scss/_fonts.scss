@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'Proxima Nova';
+  src: local('../fonts/Proxima Nova Black'), local('ProximaNova-Black'),
+    url('../fonts/ProximaNova-Black.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Proxima Nova';
+  src: local('../fonts/Proxima Nova Bold'), local('ProximaNova-Bold'),
+    url('../fonts/ProximaNova-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Proxima Nova';
+  src: local('../fonts/Proxima Nova Regular'), local('ProximaNova-Regular'),
+    url('../fonts/ProximaNova-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Proxima Nova';
+  src: local('../fonts/Proxima Nova Extrabold'), local('ProximaNova-Extrabld'),
+    url('../fonts/ProximaNova-Extrabld.woff') format('woff');
+  font-weight: 800;
+  font-style: normal;
+}
